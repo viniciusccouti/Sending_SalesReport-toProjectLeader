@@ -1,5 +1,5 @@
 # Sending_SalesReport-toProjectLeader
-the main goal of this project is sending an automatic email to the project leader with information regarding sales and quantity
+The main goal of this project is sending an automatic email to the project leader with information regarding sales and quantity
 
 Process Automation in a Company System
 Main Goal:
